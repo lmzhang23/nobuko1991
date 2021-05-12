@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nobuko1991
+- 👋 Hi, I’m @lmzhang23
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning python/SQL
 
